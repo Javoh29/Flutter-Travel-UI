@@ -6,9 +6,8 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 Home Page
-[![home-page.jpg](https://i.postimg.cc/HszkVGGK/home-page.jpg)](https://postimg.cc/WhDvHH16)
-
-Screen Page
+[![home-page.jpg](https://i.postimg.cc/HszkVGGK/home-page.jpg)](https://postimg.cc/WhDvHH16)\n
+Screen Page\n
 [![screen-page.jpg](https://i.postimg.cc/Jzh4XTMh/screen-page.jpg)](https://postimg.cc/xcW2D3kr)
 
 A few resources to get you started if this is your first Flutter project:
