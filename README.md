@@ -6,7 +6,7 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-![Alt text](https://yadi.sk/i/o6yOSHS4CY5quQ "Home Page")
+![Alt text](/assets/hame_page.jpg?assets=true "Home Page")
 
 A few resources to get you started if this is your first Flutter project:
 
